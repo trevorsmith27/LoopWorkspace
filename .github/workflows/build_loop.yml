@@ -226,8 +226,7 @@ jobs:
           meal_days \
           profiles \
           basal_lock \
-          negative_insulin \
-          remote_window 
+          negative_insulin 
 
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
